@@ -20,6 +20,11 @@ updateCursor() {
         "default-green", 1,
         "default-yellow", 1,
         "default-purple", 1,
+        "default-ibeam-red", 1,
+        "default-ibeam-blue", 1,
+        "default-ibeam-green", 1,
+        "default-ibeam-yellow", 1,
+        "default-ibeam-purple", 1,
     )
 
     for state in stateList {
