@@ -1,5 +1,7 @@
 <h1 align="center">✨<a href="https://inputtip.abgox.com">InputTip</a>✨</h1>
 
+> 本 fork 包含个人定制记录：本地生成原生统一色彩鼠标主题，并在本机关闭自动更新以避免覆盖定制。说明见 [CUSTOMIZATION.zh-CN.md](CUSTOMIZATION.zh-CN.md)。
+
 <p align="center">
     <a href="https://inputtip.abgox.com">官网</a> |
     <a href="https://github.com/abgox/InputTip">Github</a> |
